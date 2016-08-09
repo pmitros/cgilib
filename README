@@ -1,0 +1,10 @@
+This is a library I used to write CGI programs in C in the older days
+of the web (circa 1996), before we had PHP, mod_perl and Apache
+modules. Before web servers had to deal with hundreds of requests a
+second. Before we had script kiddies. In the simpler days. 
+
+It still works, but I'd review it for security holes before using. I
+doubt there are any, but that wasn't in my mentality back when I wrote
+it (in '96, security wasn't as big a deal as it is now).
+
+Bits of code were shamelessly stolen from NCSA. 
